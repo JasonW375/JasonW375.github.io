@@ -22,72 +22,17 @@ I am very fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghu
 
 Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images/wechat.jpg) / [Google scholar](https://scholar.google.com/citations?user=n9lAi4cAAAAJ).
 
-<a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=n9lAi4cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
-**2025.03.06:** 🎉🎉 Our paper addressed [Fetal Cortical Surface Reconstruction](https://openreview.net/forum?id=Ra0xioC3He) has been accepted by [ICLR 2025 Workshop AI4CHL](https://pediamedai.com//ai4chl/) as Oral Paper Presentation.
+**2025.06.21:** 🌟 Awarded **Outstanding Undergraduate Graduate of Tsinghua University** (only 75 graduates awarded across the entire university). [Certificate News 1](https://mp.weixin.qq.com/s/gRv7w17NJLcrCjEdPloFDg) | [Certificate News 2](https://mp.weixin.qq.com/s/NN7nEb1bkVdsl06YXWUePw)
 
-**2025.02.16:** Attended the ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan. [Photo](https://drive.google.com/file/d/1PB_3NYgY80Eziv8DedZvkEdgrSYU49aY/view?usp=sharing)
+**2025.05.11:** 🌟 Selected as **Tsinghua University School of Medicine Annual Undergraduate Figure**. [Official News](https://mp.weixin.qq.com/s/kkYmXmvPJEN1xpuxjKlxrw)
 
-**2025.02.12:** 🎉🎉 Our several papers have been accepted by [OHBM 2025](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229).
+**2025.04.28:** 🌟 My work "**Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report**" was featured as a typical example of innovative research by Tsinghua University and shared globally via the official [X Platform](https://x.com/Tsinghua_Uni/status/1916809961021100041) / [Facebook Page](https://www.facebook.com/share/p/1BmmJHNuxG)
 
-**2025.02.01:** 🎉🎉 Our several papers have been accepted by [ISMRM 2025](https://www.ismrm.org/25m/).
+**2025.03.27:** 🌟 Our paper "**Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report**" has been accepted by [MIDL 2025 (International Conference on Medical Imaging with Deep Learning)](https://2025.midl.io/) as poster.
 
-**2025.01.03:** 🎉🎉 Our paper addressed [Remote Photoplethysmography](https://arxiv.org/abs/2402.04798) has been accepted by [Neural Networks](https://www.sciencedirect.com/journal/neural-networks).
-
-**2024.12.25:** 🎉🎉 Our several papers have been accepted by [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/).
-
-**2024.11.24:** Attended the 2024 British Machine Vision Conference (BMVC) in Glasgow, UK. [Photo](https://img.erpweb.eu.org/imgs/2024/11/e8a70034e2cb6e23.jpg)
-
-**2024.09.22:** Attended the 2024 Annual Meeting of the Neuroimaging Committee of Chinese Psychological Society, held in Nanjing. [Photo](https://img.erpweb.eu.org/imgs/2024/09/67e9ff106746c091.jpg)
-
-**2024.07.25:** 🎉🎉 Awarded [the 1st prize](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing) at the 9th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%).
-
-**2024.07.20:** 🎉🎉 Our paper addressed [Sign Language Recognition](https://bmvc2024.org/programme/accepted_papers/) has been accepted by [BMVC 2024](https://bmvc2024.org/).
-
-**2024.07.17:** 🎉🎉 Our paper addressed [Fetal Brain GMH-IVH Detection](https://arktis2022.github.io/) has been accepted by [RSNA 2024](https://www.rsna.org/annual-meeting) as oral paper presentation (Top 10%).
-
-**2024.07.17:** 🎉🎉 Our paper addressed [Automated quantification of myelination in fetal brains](https://arktis2022.github.io/) has been accepted by [RSNA 2024](https://www.rsna.org/annual-meeting) as poster.
-
-**2024.07.14:** Attended the Medical Imaging Computing Seminar 2024 ([MICS 2024](https://nidshm.xmu.edu.cn/MICS2024.html)). [Photo](https://img.erpweb.eu.org/imgs/2024/07/a4d7a1923b39dfa2.jpg)
-
-**2024.07.04:** Attended the ADVANCED IMAGING AND MICROSCOPY (AIM 2024). [Photo](https://img.erpweb.eu.org/imgs/2024/07/05c57542c5d7591a.jpg)
-
-**2024.07.02:** Awarded **Outstanding Graduate of Beijing** and **Outstanding Graduate of Tsinghua University (Top 2%)** !
-
-**2024.05.10:** Attended the ISMRM-Endorsed Global Outreach Workshop in Thailand 2024. [Photo](https://img.erpweb.eu.org/imgs/2024/05/20292d7def1ae7b0.jpg)
-
-**2024.05.07:** Attended the ISMRM 2024 held in Singapore and gave a [presentation](https://img.erpweb.eu.org/imgs/2024/05/0bf1c7f9ac829f10.jpg).
-
-**2024.04.20:** 🎉🎉 Awarded **2024 ISMRM Magna Cum Laude Merit [Award](https://img.erpweb.eu.org/imgs/2024/06/f5785a7f202d1499.jpg) (Top 15%)**!
-
-**2024.04.18:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24330880.v1) has been accepted by [IEEE Transactions on Instrumentation and Measurement](https://ieee-ims.org/publication/ieee-tim).
-
-**2024.04.14:** Attended the ICASSP 2024 held in held in Seoul and posted a [poster](https://drive.google.com/file/d/1VUZIOY-K7SmnXrXcejkNnu-JccUAkZ0L/view?usp=sharing).
-
-**2024.02.13:** 🎉🎉 Awarded **Educational Stipend Award** by 2024 ISMRM!
-
-**2024.01.26:** 🎉🎉 Our paper addressed [Fetal MRI image quality assessment](https://www.ismrm.org/24/accepted_abstracts.pdf) has been accepted by [ISMRM 2024](https://www.ismrm.org/24m/) as oral power pitch (top 13%).
-
-**2024.01.26:** 🎉🎉 Our paper addressed [Fetal cortex reconstruction](https://www.ismrm.org/24/accepted_abstracts.pdf) has been accepted by [ISMRM 2024](https://www.ismrm.org/24m/).
-
-**2023.12.12:** 🎉🎉 Our paper addressed [Image deblurring](https://hplqaq.github.io/projects/sam-deblur) has been accepted by [IEEE ICASSP 2024](https://2024.ieeeicassp.org/).
-
-**2023.11.24:** 🎉🎉 Won the top3 Prize in [Al Health Summit 2023 Poster Competition](https://mp.weixin.qq.com/s/Y7yvnuK6nqyBeBf8tAofOQ).
-
-**2023.11.23:** Attended the AI Health Summit 2023 held in Singapore and posted a [poster](https://docs.google.com/presentation/d/1qF3I-coGVHokjrGOg2rSnimPrS6ak-8m/edit?usp=sharing&ouid=115888010982299494146&rtpof=true&sd=true). 
-
-**2023.10.20:** 🎉🎉 Our abstract addressed [Fetal MRI image quality assessment](https://onedrive.live.com/?authkey=%21ABvG7ukadYI%2Dipw&id=A5AB43CB4B79A37A%2133213&cid=A5AB43CB4B79A37A&parId=root&parQt=sharedby&parCid=UnAuth&o=OneUp) has been accepted by [AI Health Summit 2023](https://healthsummit.ai/main/abstracts/)
-
-**2023.10.15:** 🎉🎉 Awarded **National Scholarship** by Ministry of Education!
-
-**2023.10.02:** Attended the [NUS-THU Joint Workshop on Biomedical Engineering 2023](https://ihealthtech.nus.edu.sg/event/nus-thu-joint-workshop-on-biomedical-engineering-2023/) hosted by the [National University of Singapore](https://nus.edu.sg/) and posted a [poster](https://drive.google.com/file/d/1XvKr1N_4eonvEOxT0u8NA1tLA0tvImT3/view). 
-
-**2023.07.16:** Attended the [IEEE ASYNC 2023](https://c360-o2o.c360dn.com/b14b26a8836a3f6cf111018ac518dfa51920?watermark/3/image/aHR0cHM6Ly9jMzYwLW8yby5jMzYwZG4uY29tL2Y5OGQ4ODI5LTAwNjMtNDMxZi1iZmEyLTU2ZWU2Mjg5YTA2Mz9pbWFnZXMy/dissolve/100/gravity/SouthEast/dx/0/dy/0/ws/0.2071148722770726) held in Beijing, China.
-
-**2023.05.21:** 🎉🎉 Our paper addressed [Tooth-Marked Tongue Classification](https://ieeexplore.ieee.org/abstract/document/10181870) has been accepted by [IEEE ISCAS 2023](https://2023.ieee-iscas.org/).
-
-**2023.05.21:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10181639) has been accepted by [IEEE ISCAS 2023](https://2023.ieee-iscas.org/).
 
 # 📝 Publications 
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
