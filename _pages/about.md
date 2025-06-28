@@ -94,21 +94,6 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 - *2024.08 - present*, PhD student: **School of Biomedical Engineering**, Tsinghua University, China.
 - *2021.09 - 2024.06*, Undergraduate student: **School of Biomedical Engineering**, Tsinghua University, China. 
 - *2019.09 – 2021.08*, Undergraduate student: **Department of Chemical Engineering**, Tsinghua University, China.
-
-# 🦜 Invited Talks
-- *2024* **2024 ISMRM & ISMRT Annual Meeting & Exhibition**
-- *2023* **AI Health Summit 2023**
-- *2023* **2023 IEEE International Symposium on Circuits and Systems**
-- *2022* **2022 IEEE Biomedical Circuits and Systems Conference**
-
-# 💰 Funding
-- *2023-2024* **Beijing Natural Science Foundation Undergraduate "Qiyan" Program**
-- *2022-2023* **National College Student Innovation and Entrepreneurship Project**
-
-# 🎓 Academic Service
-+ Co-organizer of [OCSMRM 2024](http://www.ocsmrm.org/)
-+ *Journal Reviewer*, IEEE TCDS; IEEE TCAS-I; IEEE TCAS-II; IEEE TIP; Applied Intelligence.
-+ *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025; ICLR 2025 Workshop (AI4CHL, XAI4Science).
   
 # 🎣 Activities
 - *2025.02.16*, Attended the ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives in Kyoto, Japan. [Photo](https://drive.google.com/file/d/1PB_3NYgY80Eziv8DedZvkEdgrSYU49aY/view?usp=sharing)
