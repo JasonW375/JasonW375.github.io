@@ -16,17 +16,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm First-year PhD student from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes AI for Neuroscience, Medical Image Analysis, Spiking Neural Network.
+I'm Four-year undergraduate student from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interests include Medical Image Analysis, Multimodal Learning, and Foundation Models.
 
 I am very fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) of [Birth Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://bme.tsinghua.edu.cn/index.htm), Tsinghua University. 
 
-I was previously advised by [Prof. Hong Chen](http://hongchen.ime.tsinghua.edu.cn/) from [School of Integrated Circuits](https://www.sic.tsinghua.edu.cn/en/index.htm), Tsinghua University.
-
-You can find my CV here: [Mingxuan Liu's Curriculum Vitae](https://drive.google.com/file/d/1_AdwP3kM8S54H9hw5yXXT3xNGdMc7l6u/view?usp=sharing).
-
-[My previous profile in Chinese](https://mp.weixin.qq.com/s/yvf6LKf-0XhFasQ4mtH-mQ).
-
-Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../images/wechat.jpg) / [Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=zh-CN) / [Semantic scholar](https://www.semanticscholar.org/author/Mingxuan-Liu/2112213258).
+Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images/wechat.jpg) / [Google scholar](https://scholar.google.com/citations?user=n9lAi4cAAAAJ).
 
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
