@@ -73,27 +73,28 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 
 
 # 🎖 Honors and Awards
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/07/b8f175077893bf72.jpg) *2025* **Outstanding Graduate Award (Top 2%)**, Tsinghua University
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/03/1646fe4986f106aa.jpg) *2024* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/3725764c812767de.jpg) *2023* **Scholarship for Comprehensive Academic Excellence**, Tsinghua University 
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/fa3e12191add4d53.jpg) *2022* **Scholarship for Athletic Achievement**, Tsinghua University 
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/de4438e28228284b.jpg) *2022* **Third Prize in the 25th Hardware Design Competition**, Tsinghua University <br /> &nbsp; &nbsp; &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
+- [[Certificate]](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/tsinghua_graduate.jpg) *2025* **Outstanding Graduate Award (Top 2%)**, Tsinghua University
+- [[Certificate]](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/medical_figure.jpg) *2025* **Tsinghua University School of Medicine Annual Undergraduate Figure****, Tsinghua University
+- [[Certificate]](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/national_scholarship.jpg) *2024* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
+- [[Certificate]]() *2023* **Scholarship for Comprehensive Academic Excellence**, Tsinghua University 
+- [[Certificate]](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/Athletic_Achievement.jpg) *2022* **Scholarship for Athletic Achievement**, Tsinghua University 
+- [[Certificate]](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/hardware.jpg) *2022* **Third Prize in the 25th Hardware Design Competition**, Tsinghua University <br /> &nbsp; &nbsp; &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Undergraduate student: **School of Biomedical Engineering**, Tsinghua University, China. 
   
 # ⚽️ Sports Activities & Specializations
 - *2025.05*, Placed 5th in the Capital University Football League (Group B, non-athletic recruit), representing Tsinghua University in Beijing.
-- *2025.04*, Participated in a friendly match with former Chinese National Team players Huang Bowen and Yu Dabao. [Photo](https://img.erpweb.eu.org/imgs/2024/11/cb1c15b029cec4e7.jpg)
-- *2024.11*, Placed 4th in the Capital University Football League (Group B, non-athletic recruit), representing Tsinghua University. [Photo](https://img.erpweb.eu.org/imgs/2024/09/67e9ff106746c091.jpg)
-- *2024.10*,Participated in football exchange activities in Xinjiang, China, as a member of the Tsinghua University Men's Football Team. [Photo](https://img.erpweb.eu.org/imgs/2024/07/aed77c3330a9ef9c.jpg)
-- *2024.09*, Selected as a regular member (non-athletic recruit) of the Tsinghua University Men's Football Team. [Photo](https://img.erpweb.eu.org/imgs/2024/07/a4d7a1923b39dfa2.jpg)
-- *2024.05*, Placed 4th in the Men's 200m at the Tsinghua University Athletics Meet. [Photo](https://img.erpweb.eu.org/imgs/2024/07/05c57542c5d7591a.jpg)
-- *2024.05*, Placed 7th in the Men's 100m at the Tsinghua University Athletics Meet. [Photo](https://img.erpweb.eu.org/imgs/2024/05/20292d7def1ae7b0.jpg)
-- *2024.04*, As team captain, led the School of Medicine to successfully remain in Group B of the Tsinghua University Ma Yuehan Cup Football League. [Photo](https://img.erpweb.eu.org/imgs/2024/05/0bb68e1150ae04be.png)
-- *2023.05*, Placed 4th in the Tsinghua University Ma Yuehan Cup Group A Football League, as a starting member of the Department of Electronic Engineering team. [Photo A](https://img.erpweb.eu.org/imgs/2024/05/0bf1c7f9ac829f10.jpg) [Photo B](https://img.erpweb.eu.org/imgs/2024/05/a2646308883e4385.jpg)
-- *2022.05*, Won the Championship in the Tsinghua University Freshmen Cup Football Tournament. [Photo](https://img.erpweb.eu.org/imgs/2024/04/0a91be3331527e5d.jpg)
-- *2021.10*, Won the Men's 100m Championship at the Tsinghua University Barefoot Athletics Meet. [Photo](https://img.erpweb.eu.org/imgs/2024/02/207b20e0e675d4fa.jpg) 
+- *2025.04*, Participated in a friendly match with former Chinese National Team players Huang Bowen and Yu Dabao. [Photo A](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/national_team.jpg)[Photo B](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/with_hbw.jpg)
+- *2024.11*, Placed 4th in the Capital University Football League (Group B, non-athletic recruit), representing Tsinghua University. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/beijing_match.jpg)
+- *2024.10*,Participated in football exchange activities in Xinjiang, China, as a member of the Tsinghua University Men's Football Team. [Photo A](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/xinjiang_team.jpg)[Photo B](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/xinjiang_personal.jpg)
+- *2024.09*, Selected as a regular member (non-athletic recruit) of the Tsinghua University Men's Football Team. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/school_team.jpg)
+- *2024.05*, Placed 4th in the Men's 200m at the Tsinghua University Athletics Meet. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/200m.jpg)
+- *2024.05*, Placed 7th in the Men's 100m at the Tsinghua University Athletics Meet. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/100m.jpg)
+- *2024.04*, As team captain, led the School of Medicine to successfully remain in Group B of the Tsinghua University Ma Yuehan Cup Football League. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/medical_team.jpg)
+- *2023.05*, Placed 4th in the Tsinghua University Ma Yuehan Cup Group A Football League, as a starting member of the Department of Electronic Engineering team. [Photo A](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/ee_team.jpg) 
+- *2022.05*, Won the Championship in the Tsinghua University Freshmen Cup Football Tournament. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/champion_freshman_cup.jpg)
+- *2021.10*, Won the Men's 100m Championship at the Tsinghua University Barefoot Athletics Meet. 
 
 # 🔗 LINKS
 BIRTHLab: [The lab for Brain Imaging Research at Tsinghua](https://birthlab.github.io/)<br>Mingxuan Liu:: [School of Biomedical Engineering, Tsinghua University](https://arktis2022.github.io/)<br>Haoxiang Li: [School of Biomedical Engineering, Tsinghua University](https://lihaoxiang-20.github.io/)<br>Yifei Chen: [School of Biomedical Engineering, Tsinghua University](https://justlfc03.github.io/)<br>Jianglan Zheng: [School of Biomedical Engineering, Tsinghua University](https://zjl21.github.io/)<br>Yingqi Hao: [School of Biomedical Engineering, Tsinghua University](https://yingqihao2022.github.io/)
