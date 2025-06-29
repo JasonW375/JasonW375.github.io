@@ -85,9 +85,9 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
   
 # ⚽️ Sports Activities and Honors
 - *2025.05*, Placed 5th in the Capital University Football League (Group B, non-athletic recruit), representing Tsinghua University in Beijing.
-- *2025.04*, Participated in a friendly match with former Chinese National Team players Huang Bowen and Yu Dabao. [Photo A](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/national_team.jpg)[Photo B](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/with_hbw.jpg)
+- *2025.04*, Participated in a friendly match with former Chinese National Team players Huang Bowen and Yu Dabao. [Photo A](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/national_team.jpg) [Photo B](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/with_hbw.jpg)
 - *2024.11*, Placed 4th in the Capital University Football League (Group B, non-athletic recruit), representing Tsinghua University. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/beijing_match.jpg)
-- *2024.10*,Participated in football exchange activities in Xinjiang, China, as a member of the Tsinghua University Men's Football Team. [Photo A](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/xinjiang_team.jpg)[Photo B](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/xinjiang_personal.jpg)
+- *2024.10*,Participated in football exchange activities in Xinjiang, China, as a member of the Tsinghua University Men's Football Team. [Photo A](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/xinjiang_team.jpg) [Photo B](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/xinjiang_personal.jpg)
 - *2024.09*, Selected as a regular member (non-athletic recruit) of the Tsinghua University Men's Football Team. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/school_team.jpg)
 - *2024.05*, Placed 4th in the Men's 200m at the Tsinghua University Athletics Meet. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/200m.jpg)
 - *2024.05*, Placed 7th in the Men's 100m at the Tsinghua University Athletics Meet. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/100m.jpg)
