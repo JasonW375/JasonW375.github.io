@@ -22,7 +22,7 @@ I am very fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghu
 
 Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images/Wechat.jpg) / [Google scholar](https://scholar.google.com/citations?user=n9lAi4cAAAAJ).
 
-<a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=n9lAi4cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=n9lAi4cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
 **2025.06.21:** 🌟🌟 Awarded **Outstanding Undergraduate Graduate of Tsinghua University（(Top 2%)）** [News 1](https://mp.weixin.qq.com/s/gRv7w17NJLcrCjEdPloFDg) | [News 2](https://mp.weixin.qq.com/s/NN7nEb1bkVdsl06YXWUePw)
