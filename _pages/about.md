@@ -20,7 +20,7 @@ I'm Four-year undergraduate student from [School of Biomedical Engineering](http
 
 I am very fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) of [Birth Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://bme.tsinghua.edu.cn/index.htm), Tsinghua University. 
 
-Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images/wechat.jpg) / [Google scholar](https://scholar.google.com/citations?user=n9lAi4cAAAAJ).
+Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images/Wechat.jpg) / [Google scholar](https://scholar.google.com/citations?user=n9lAi4cAAAAJ).
 
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=n9lAi4cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
