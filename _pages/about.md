@@ -83,7 +83,7 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 # 📖 Educations
 - *2021.09 - 2025.06*, Undergraduate student: **School of Biomedical Engineering**, Tsinghua University, China. 
   
-# ⚽️ Sports Activities & Specializations
+# ⚽️ Sports Activities and Honors
 - *2025.05*, Placed 5th in the Capital University Football League (Group B, non-athletic recruit), representing Tsinghua University in Beijing.
 - *2025.04*, Participated in a friendly match with former Chinese National Team players Huang Bowen and Yu Dabao. [Photo A](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/national_team.jpg)[Photo B](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/with_hbw.jpg)
 - *2024.11*, Placed 4th in the Capital University Football League (Group B, non-athletic recruit), representing Tsinghua University. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/beijing_match.jpg)
@@ -92,7 +92,7 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 - *2024.05*, Placed 4th in the Men's 200m at the Tsinghua University Athletics Meet. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/200m.jpg)
 - *2024.05*, Placed 7th in the Men's 100m at the Tsinghua University Athletics Meet. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/100m.jpg)
 - *2024.04*, As team captain, led the School of Medicine to successfully remain in Group B of the Tsinghua University Ma Yuehan Cup Football League. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/medical_team.jpg)
-- *2023.05*, Placed 4th in the Tsinghua University Ma Yuehan Cup Group A Football League, as a starting member of the Department of Electronic Engineering team. [Photo A](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/ee_team.jpg) 
+- *2023.05*, Placed 4th in the Tsinghua University Ma Yuehan Cup Group A Football League, as a starting member of the Department of Electronic Engineering team. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/ee_team.jpg) 
 - *2022.05*, Won the Championship in the Tsinghua University Freshmen Cup Football Tournament. [Photo](https://github.com/JasonW375/JasonW375.github.io/blob/main/images/champion_freshman_cup.jpg)
 - *2021.10*, Won the Men's 100m Championship at the Tsinghua University Barefoot Athletics Meet. 
 
