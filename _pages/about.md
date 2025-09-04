@@ -83,7 +83,7 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 - [[Certificate]](https://www.imagehub.cc/image/IaTVrJ) *2024* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - [[Certificate]]() *2023* **Scholarship for Comprehensive Academic Excellence**, Tsinghua University 
 - [[Certificate]](https://www.imagehub.cc/image/IaT45U) *2022* **Scholarship for Athletic Achievement**, Tsinghua University 
-- [[Certificate]](https://www.imagehub.cc/image/IaVrU0) *2022* **Third Prize in the 25th Hardware Design Competition**, Tsinghua University <br /> &nbsp; &nbsp; &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
+- [[Certificate]](https://www.imagehub.cc/image/IaVrU0) *2022* **Third Prize in the 25th Hardware Design Competition**, Tsinghua University.
 
 # 📖 Educations
 - *2025.09 - 2028.06*, Master's student: **School of Biomedical Engineering**, Tsinghua University, China. 
