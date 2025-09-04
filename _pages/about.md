@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Four-year undergraduate student from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interests include Medical Image Analysis, Multimodal Learning, and Foundation Models.
+I'm first-year Master's student from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interests include Medical Image Analysis, Multimodal Learning, and Foundation Models.
 
 I am very fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) of [Birth Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://bme.tsinghua.edu.cn/index.htm), Tsinghua University. 
 
@@ -27,6 +27,8 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 </a>
 
 # 🔥 News
+**2025.07.19:** 🌟🌟 Awarded **First Prize** in the **10th National Biomedical Engineering Innovation Design Competition**. [News](https://mp.weixin.qq.com/s/X08abfkwGJyQ_52iI1ipBQ)
+
 **2025.06.21:** 🌟🌟 Awarded **Outstanding Undergraduate Graduate of Tsinghua University（(Top 2%)）** [News 1](https://mp.weixin.qq.com/s/gRv7w17NJLcrCjEdPloFDg) | [News 2](https://mp.weixin.qq.com/s/NN7nEb1bkVdsl06YXWUePw)
 
 **2025.05.11:** 🌟🌟 Selected as **Tsinghua University School of Medicine Annual Undergraduate Figure**. [News](https://mp.weixin.qq.com/s/kkYmXmvPJEN1xpuxjKlxrw)
@@ -75,6 +77,7 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 
 
 # 🎖 Honors and Awards
+- [[Certificate]](https://www.imagehub.cc/image/ISa5ed) *2025* **First Prize in the 10th National Biomedical Engineering Innovation Design Competition**, China <br /> &nbsp; &nbsp; &nbsp; *National-level competition for biomedical engineering innovation*.
 - [[Certificate]](https://www.imagehub.cc/image/IaTQmA) *2025* **Outstanding Graduate Award (Top 2%)**, Tsinghua University
 - [[Certificate]](https://www.imagehub.cc/image/IaTjVR) *2025* **Tsinghua University School of Medicine Annual Undergraduate Figure**, Tsinghua University
 - [[Certificate]](https://www.imagehub.cc/image/IaTVrJ) *2024* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
@@ -83,6 +86,7 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 - [[Certificate]](https://www.imagehub.cc/image/IaVrU0) *2022* **Third Prize in the 25th Hardware Design Competition**, Tsinghua University <br /> &nbsp; &nbsp; &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
 
 # 📖 Educations
+- *2025.09 - 2028.06*, Master's student: **School of Biomedical Engineering**, Tsinghua University, China. 
 - *2021.09 - 2025.06*, Undergraduate student: **School of Biomedical Engineering**, Tsinghua University, China. 
   
 # ⚽️ Sports Activities and Honors
