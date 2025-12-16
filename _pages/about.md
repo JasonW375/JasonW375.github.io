@@ -27,21 +27,21 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 </a>
 
 # 🔥 News
-**2025.12.14:** 🌟🌟 Attended the Doctoral Interdisciplinary Frontier Forum & 810th Doctoral Academic Forum (Tsinghua University) and won **Second Prize** (¥3,000). [Photo](https://www.imagehub.cc/image/MxmaAk) 
+**2025.12.14:** 🎉🎉 Attended the Doctoral Interdisciplinary Frontier Forum & 810th Doctoral Academic Forum (Tsinghua University) and won **Second Prize** (¥3,000). [Photo](https://www.imagehub.cc/image/MxmaAk) 
 
-**2025.11.22:** 🌟🌟 Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University). [Photo](https://www.imagehub.cc/image/MxZATa) 
+**2025.11.22:** 🎉🎉 Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University). [Photo](https://www.imagehub.cc/image/MxZATa) 
 
-**2025.09.27:** 🌟🌟 Attended MICCAI 2025 in Daejeon, South Korea; won **Second Prize** in the MICCAI [VLM3D Challenge](https://vlm3dchallenge.com/) .[Photo](https://www.imagehub.cc/image/MxZ5Rd)
+**2025.09.27:** 🎉🎉 Attended MICCAI 2025 in Daejeon, South Korea; won **Second Prize** in the MICCAI [VLM3D Challenge](https://vlm3dchallenge.com/) .[Photo](https://www.imagehub.cc/image/MxZ5Rd)
 
-**2025.07.19:** 🌟🌟 Awarded **First Prize** in the **10th National Biomedical Engineering Innovation Design Competition**. [News](https://mp.weixin.qq.com/s/X08abfkwGJyQ_52iI1ipBQ)
+**2025.07.19:** 🎉🎉 Awarded **First Prize** in the **10th National Biomedical Engineering Innovation Design Competition**. [News](https://mp.weixin.qq.com/s/X08abfkwGJyQ_52iI1ipBQ)
 
-**2025.06.21:** 🌟🌟 Awarded **Outstanding Undergraduate Graduate of Tsinghua University(Top 2%)** [News 1](https://mp.weixin.qq.com/s/gRv7w17NJLcrCjEdPloFDg) [News 2](https://mp.weixin.qq.com/s/NN7nEb1bkVdsl06YXWUePw)
+**2025.06.21:** 🎉🎉 Awarded **Outstanding Undergraduate Graduate of Tsinghua University(Top 2%)** [News 1](https://mp.weixin.qq.com/s/gRv7w17NJLcrCjEdPloFDg) [News 2](https://mp.weixin.qq.com/s/NN7nEb1bkVdsl06YXWUePw)
 
-**2025.05.11:** 🌟🌟 Selected as **Tsinghua University School of Medicine Annual Undergraduate Figure**. [News](https://mp.weixin.qq.com/s/kkYmXmvPJEN1xpuxjKlxrw)
+**2025.05.11:** 🎉🎉 Selected as **Tsinghua University School of Medicine Annual Undergraduate Figure**. [News](https://mp.weixin.qq.com/s/kkYmXmvPJEN1xpuxjKlxrw)
 
-**2025.04.28:** 🌟🌟 Our [Chest-OMDL](https://openreview.net/forum?id=ns6nq592HX#discussion) Project got reported by official media of Tsinghua University. [X](https://x.com/Tsinghua_Uni/status/1916809961021100041) [Facebook](https://www.facebook.com/share/p/1BmmJHNuxG)
+**2025.04.28:** 🎉🎉 Our [Chest-OMDL](https://openreview.net/forum?id=ns6nq592HX#discussion) Project got reported by official media of Tsinghua University. [X](https://x.com/Tsinghua_Uni/status/1916809961021100041) [Facebook](https://www.facebook.com/share/p/1BmmJHNuxG)
 
-**2025.04.28:** 🌟🌟 Our paper addressed [Multidisease Detection and Localization](https://openreview.net/forum?id=ns6nq592HX#discussion) has been accepted by [MIDL 2025](https://2025.midl.io/).
+**2025.04.28:** 🎉🎉 Our paper addressed [Multidisease Detection and Localization](https://openreview.net/forum?id=ns6nq592HX#discussion) has been accepted by [MIDL 2025](https://2025.midl.io/).
 
 # 📝 Publications 
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
