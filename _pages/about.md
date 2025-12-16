@@ -35,7 +35,7 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 
 **2025.07.19:** 🌟🌟 Awarded **First Prize** in the **10th National Biomedical Engineering Innovation Design Competition**. [News](https://mp.weixin.qq.com/s/X08abfkwGJyQ_52iI1ipBQ)
 
-**2025.06.21:** 🌟🌟 Awarded **Outstanding Undergraduate Graduate of Tsinghua University（(Top 2%)）** [News 1](https://mp.weixin.qq.com/s/gRv7w17NJLcrCjEdPloFDg) | [News 2](https://mp.weixin.qq.com/s/NN7nEb1bkVdsl06YXWUePw)
+**2025.06.21:** 🌟🌟 Awarded **Outstanding Undergraduate Graduate of Tsinghua University（(Top 2%)）** [News 1](https://mp.weixin.qq.com/s/gRv7w17NJLcrCjEdPloFDg) [News 2](https://mp.weixin.qq.com/s/NN7nEb1bkVdsl06YXWUePw)
 
 **2025.05.11:** 🌟🌟 Selected as **Tsinghua University School of Medicine Annual Undergraduate Figure**. [News](https://mp.weixin.qq.com/s/kkYmXmvPJEN1xpuxjKlxrw)
 
