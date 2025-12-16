@@ -83,8 +83,8 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 
 
 # 🎖 Honors and Awards
-- [[Certificate]](https://www.imagehub.cc/image/ISa5ed) *2025* **First Prize in the 10th National Biomedical Engineering Innovation Design Competition**, China.
-- [[Certificate]](https://www.imagehub.cc/image/ISa5ed) *2025* **First Prize in the 10th National Biomedical Engineering Innovation Design Competition**, China.
+- [[Certificate]](https://www.imagehub.cc/image/Mxzg2R) *2025* **Second Prize of Oral Presentation**, 810th Doctoral Academic Forum (Doctoral Interdisciplinary Frontier Forum), Tsinghua University
+- [[Certificate]](https://www.imagehub.cc/image/MxmSsB) *2025* **MICCAI [VLM3D Challenge](https://vlm3dchallenge.com/challenges/) 2nd Place Winner**
 - [[Certificate]](https://www.imagehub.cc/image/ISa5ed) *2025* **First Prize in the 10th National Biomedical Engineering Innovation Design Competition**, China.
 - [[Certificate]](https://www.imagehub.cc/image/IaTQmA) *2025* **Outstanding Graduate Award (Top 2%)**, Tsinghua University
 - [[Certificate]](https://www.imagehub.cc/image/IaTjVR) *2025* **Tsinghua University School of Medicine Annual Undergraduate Figure**, Tsinghua University
