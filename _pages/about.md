@@ -27,6 +27,12 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 </a>
 
 # 🔥 News
+**2025.12.14:** 🌟🌟 Attended the Doctoral Interdisciplinary Frontier Forum & 810th Doctoral Academic Forum (Tsinghua University) and won **Second Prize** (¥3,000). [Photo](https://www.imagehub.cc/image/MxmaAk) 
+
+**2025.11.22:** 🌟🌟 Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University). [Photo](https://www.imagehub.cc/image/MxZATa) 
+
+**2025.09.27:** 🌟🌟 Attended MICCAI 2025 in Daejeon, South Korea; won **Second Prize** in the MICCAI [VLM3D Challenge](https://vlm3dchallenge.com/) .[Photo](https://www.imagehub.cc/image/MxZ5Rd)
+
 **2025.07.19:** 🌟🌟 Awarded **First Prize** in the **10th National Biomedical Engineering Innovation Design Competition**. [News](https://mp.weixin.qq.com/s/X08abfkwGJyQ_52iI1ipBQ)
 
 **2025.06.21:** 🌟🌟 Awarded **Outstanding Undergraduate Graduate of Tsinghua University（(Top 2%)）** [News 1](https://mp.weixin.qq.com/s/gRv7w17NJLcrCjEdPloFDg) | [News 2](https://mp.weixin.qq.com/s/NN7nEb1bkVdsl06YXWUePw)
@@ -77,6 +83,8 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 
 
 # 🎖 Honors and Awards
+- [[Certificate]](https://www.imagehub.cc/image/ISa5ed) *2025* **First Prize in the 10th National Biomedical Engineering Innovation Design Competition**, China.
+- [[Certificate]](https://www.imagehub.cc/image/ISa5ed) *2025* **First Prize in the 10th National Biomedical Engineering Innovation Design Competition**, China.
 - [[Certificate]](https://www.imagehub.cc/image/ISa5ed) *2025* **First Prize in the 10th National Biomedical Engineering Innovation Design Competition**, China.
 - [[Certificate]](https://www.imagehub.cc/image/IaTQmA) *2025* **Outstanding Graduate Award (Top 2%)**, Tsinghua University
 - [[Certificate]](https://www.imagehub.cc/image/IaTjVR) *2025* **Tsinghua University School of Medicine Annual Undergraduate Figure**, Tsinghua University
