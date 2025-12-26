@@ -81,7 +81,7 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
   <li id="CP-Short-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry</span> <br>
     <a href="https://openreview.net/forum?id=iLBipDelQu">[Paper]</a> <br> 
-    YiJin Li#, Mingxuan Liu#, Hongjia Yang, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
+    Yijin Li#, Mingxuan Liu#, Hongjia Yang, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
     <i>Medical Imaging with Deep Learning-Short Papers <strong>(MIDL-Short). </strong></i> 2025.
   </li>
 
