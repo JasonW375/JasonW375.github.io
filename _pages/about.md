@@ -48,6 +48,19 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 
 #### CONFERENCE PAPERS
 <ol reversed>
+  <li id="MA-Pub1"> 
+    <span style="color:#000000; font-weight:bold;">WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation</span> <br>
+    Guanyu Zhou#, Yifei Chen#, Gaoxiang Ying, Mingxuan Liu, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Jialan Zheng, Bixiao Cui, Qiyuan Tian*, Jie Lu*<br> 
+    <i>IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM).</strong></i> 2025. (Oral)
+  </li>
+
+  <li id="MA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">FetalExtract-LLM: Structured Information Extraction in Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models</span> <br>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11">[Paper]</a> <br> 
+    Mingxuan Liu#, Yijin Li#, Juncheng Zhu#, Hongjia Yang, Yiming Huang, Haoxiang Li, Yifei Chen, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Yi Liao, Haibo Qu, Qiyuan Tian*<br> 
+    <i> MICCAI Workshop on Perinatal, Preterm and Paediatric Image Analysis <strong>(PIPPI). </strong></i> 2025. (Oral)
+  </li>
+  
   <li id="CP-Pub2"> 
     <span style="color:#000000; font-weight:bold;">FetalCSR: Multi-input Attention Fusion Network for Neural ODE-based Fetal Cortical Surface Reconstruction</span> <br>
     <a href="https://openreview.net/forum?id=Ra0xioC3He">[Paper]</a> <a href="https://github.com/lhx-lhx-lhx/FetalCSR">[Code]</a> <br> 
