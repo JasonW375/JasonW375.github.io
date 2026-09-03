@@ -27,6 +27,12 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 </a>
 
 # 🔥 News
+**2026.07.10:** 🎉🎉 Attended the Medical Image Computing Seminar (MICS) 2026.
+
+**2026.06.03:** 🎉🎉 Attended BME 2026 (China Biomedical Engineering Conference & Medical Innovation Summit) and received the **Excellent Paper Competition Third Prize**.
+
+**2026.03.04:** 🎉🎉 Attended the ISMRM Workshop on Unlocking the Potential of Prenatal MRI in Washington, D.C.
+
 **2025.12.14:** 🎉🎉 Attended the Doctoral Interdisciplinary Frontier Forum & 810th Doctoral Academic Forum (Tsinghua University) and won **Second Prize** (¥3,000). [Photo](https://www.imagehub.cc/image/MxmaAk) 
 
 **2025.11.22:** 🎉🎉 Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University). [Photo](https://www.imagehub.cc/image/MxZATa) 
