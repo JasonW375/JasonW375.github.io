@@ -50,52 +50,138 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 **2025.04.28:** 🎉🎉 Our paper addressed [Multidisease Detection and Localization](https://openreview.net/forum?id=ns6nq592HX#discussion) has been accepted by [MIDL 2025](https://2025.midl.io/).
 
 # 📝 Publications 
-<span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
+<span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author | status / venue shown in italics <br> 
+
+#### JOURNAL PAPERS
+<ol reversed>
+  <li> 
+    <span style="color:#000000; font-weight:bold;">EXACT: An Explainable Anomaly-aware Vision Foundation Model for Analysis of 3D Chest CT</span> <br>
+    <a href="https://arxiv.org/abs/2604.24146">[Paper]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Xuguang Bai#</span>, Mingxuan Liu#*, Tongxi Song#, Yifei Chen#, Hongjia Yang, Kasidit Anmahapong, Zihan Li, Ying Zhou, Qiyuan Tian* <br>
+    <i>npj Digital Medicine.</i> 2026. (Major Revision)
+  </li>
+
+  <li> 
+    <span style="color:#000000; font-weight:bold;">Towards Reliable Fetal Ultrasound Interpretation with Multi-Agent Collaboration</span> <br>
+    <a href="https://arxiv.org/abs/2605.25357">[Paper]</a> <br> 
+    Xiaotian Hu#, Mingxuan Liu#, Junwei Huang#, Kasidit Anmahapong, Yifei Chen, Yitong Luo, Yiming Huang, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Zihan Li, Yi Liao, Haibo Qu*, Qiyuan Tian* <br>
+    <i>Medical Image Analysis <strong>(MedIA).</strong></i> 2026. (Major Revision)
+  </li>
+
+  <li> 
+    <span style="color:#000000; font-weight:bold;">Towards Generalizable and Expert-level Fetal MRI Report Impression Generation via Adaptive Fine-tuning of Large Language Models</span> <br>
+    Yijin Li#, Mingxuan Liu#, X. Zhang#, Yi Liao#, W. Chen, Kasidit Anmahapong, Z. Wang, Yifei Chen, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, D. Yue, X. Liu, N. Sun, R. Hu, M. Kang, Y. Song, H. Lai, X. Zhou, Juncheng Zhu, F. Jia, G. Ning, Haibo Qu*, Qiyuan Tian* <br>
+    <i>npj Digital Medicine.</i> 2026. (Major Revision)
+  </li>
+
+  <li> 
+    <span style="color:#000000; font-weight:bold;">A Multimodal Foundation Model for Emergency Head CT Interpretation</span> <br>
+    Jingyuan Zheng#, Yifei Chen#, Beining Wu#, Yuanhan Wang#, Mingxuan Liu#, Lu Li, Shuo Jiang, Weihong Chen, Liaoman Xu, Yueyi Wu, Chang Liu, Lulu Guo, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Zihan Li, Hongjia Yang, Feiwei Qin, Jingzhe Liu, Haibo Qu, Qiang Liao, Gang Zhao, Keqin Pan, Jun Guo, Lizhou Chen, Ying Zhou, Huaiqiang Sun*, Qiyuan Tian* <br>
+    <i>Science Bulletin. </i> 2026. (Major Revision, medRxiv 2026.07.07.26357429)
+  </li>
+
+  <li> 
+    <span style="color:#000000; font-weight:bold;">A Retrospective Study of a Chinese Vision-Language Large Model for Emergency 3D Brain CT Interpretation</span> <br>
+    Yifei Chen#, Jingyuan Zheng#, Yuanhan Wang#, Beining Wu, Lu Li, Mingxuan Liu, Liaoman Xu, Yueyi Wu, Chang Liu, Lulu Guo, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Feiwei Qin, Qiang Liao, Yong Gu, Gang Zhao, Lu Ma, Keqin Pan, Jun Guo, Ying Zhou, Huaiqiang Sun*, Qiyuan Tian* <br>
+    <i>medRxiv preprint. </i> 2026. (medRxiv 2026.07.11.26357421)
+  </li>
+
+  <li> 
+    <span style="color:#000000; font-weight:bold;">Preoperative CTA-based Deep Learning Model for Predicting AKI After TEVAR in Type B Aortic Dissection</span> <br>
+    Mingxuan Liu#, <span style="color:#b02418; font-weight:bold;">Xuguang Bai#</span>, M. Zhang, Yifei Chen, Hongjia Yang, Z. Wang, Yitong Luo, Ying Zhou, X. Han*, Qiyuan Tian <br>
+    <i>Radiology: Artificial Intelligence <strong>(Radiology: AI).</strong></i> 2026. (Under Review)
+  </li>
+</ol>
 
 #### CONFERENCE PAPERS
 <ol reversed>
-  <li id="MA-Pub1"> 
+  <li> 
+    <span style="color:#000000; font-weight:bold;">FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis</span> <br>
+    <a href="https://arxiv.org/abs/2603.09733">[Paper]</a> <a href="https://github.com/birthlab/FetalAgents">[Code]</a> <br> 
+    Xiaotian Hu#, Junwei Huang#, Mingxuan Liu#, Kasidit Anmahapong, Yifei Chen, Yitong Luo, Yiming Huang, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Zihan Li, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
+    <i>International Conference on Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI).</strong></i> 2026. (Early Accept, Top 9%)
+  </li>
+
+  <li> 
     <span style="color:#000000; font-weight:bold;">WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation</span> <br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11356448">[Paper]</a> <a href="https://github.com/Guanyu-Zhou/WARPNet">[Code]</a> <br> 
     Guanyu Zhou#, Yifei Chen#, Gaoxiang Ying, Mingxuan Liu, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Jialan Zheng, Bixiao Cui, Qiyuan Tian*, Jie Lu*<br> 
     <i>IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM).</strong></i> 2025. (Oral)
   </li>
 
-  <li id="MA-Pub0"> 
+  <li> 
     <span style="color:#000000; font-weight:bold;">FetalExtract-LLM: Structured Information Extraction in Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models</span> <br>
     <a href="https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11">[Paper]</a> <br> 
     Mingxuan Liu#, Yijin Li#, Juncheng Zhu#, Hongjia Yang, Yiming Huang, Haoxiang Li, Yifei Chen, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Yi Liao, Haibo Qu, Qiyuan Tian*<br> 
     <i> MICCAI Workshop on Perinatal, Preterm and Paediatric Image Analysis <strong>(PIPPI). </strong></i> 2025. (Oral)
   </li>
-  
-  <li id="CP-Pub2"> 
+
+  <li> 
+    <span style="color:#000000; font-weight:bold;">Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest CT Using Weakly Supervised Deep Learning from Free-text Radiology Report</span> <br>
+    <a href="https://openreview.net/forum?id=ns6nq592HX">[Paper]</a> <a href="https://github.com/JasonW375/Chest-OMDL">[Code]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Xuguang Bai#</span>, Mingxuan Liu#, Yifei Chen, Hongjia Yang, Qiyuan Tian* <br>
+    <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (MICCAI 2025 VLM3D Challenge 2nd Place Winner)
+  </li>
+
+  <li> 
     <span style="color:#000000; font-weight:bold;">FetalCSR: Multi-input Attention Fusion Network for Neural ODE-based Fetal Cortical Surface Reconstruction</span> <br>
     <a href="https://openreview.net/forum?id=Ra0xioC3He">[Paper]</a> <a href="https://github.com/lhx-lhx-lhx/FetalCSR">[Code]</a> <br> 
     Haoxiang Li#, Mingxuan Liu#, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Yi Liao, Jialan Zheng, Hongjia Yang, Zihan Li, Haibo Qu, Qiyuan Tian* <br>
-    <i>ICLR 2025 Workshop on AI for Children <strong>(ICLR Workshop). </strong></i> 2025.
-  </li>
-
-  <li id="CP-Pub1"> 
-    <span style="color:#000000; font-weight:bold;">Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest CT Using Weakly Supervised Deep Learning from Free-text Radiology Report</span> <br>
-    <a href="https://openreview.net/forum?id=ns6nq592HX&referrer=%5Bthe%20profile%20of%20Yifei%20Chen%5D(%2Fprofile%3Fid%3D~Yifei_Chen18">[Paper]</a> <a href="https://github.com/JasonW375/Chest-OMDL">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Xuguang Bai#</span>, Mingxuan Liu#, Yifei Chen, Hongjia Yang, Qiyuan Tian* <br>
-    <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025.
+    <i>ICLR 2025 Workshop on AI for Children <strong>(ICLR Workshop). </strong></i> 2025. (Oral)
   </li>
 </ol>
 
-#### CONFERENCE SHORT PAPERS
+#### CONFERENCE ABSTRACTS
 <ol reversed>
-  <li id="CP-Short-Pub2"> 
+  <li> 
+    <span style="color:#000000; font-weight:bold;">Preoperative CTA-based Deep Learning Model for Predicting AKI After TEVAR in Type B Aortic Dissection</span> <br>
+    <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Mingxuan Liu, M. Zhang, Hongjia Yang, Z. Wang, Yitong Luo, Ying Zhou, X. Han, Qiyuan Tian <br>
+    <i>China Biomedical Engineering Conference & Medical Innovation Summit <strong>(BME). </strong></i> 2026. (Oral, Excellent Paper Competition Third Prize)
+  </li>
+
+  <li> 
+    <span style="color:#000000; font-weight:bold;">Quality-Label-Free Stack-Level Quality Control Improves Fetal Brain Slice-to-Volume Reconstruction</span> <br>
+    Mingxuan Liu, Yingqi Hao, Yi Liao, Haoxiang Li, Juncheng Zhu, Hongjia Yang, Yifei Chen, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Haibo Qu, Qiyuan Tian* <br>
+    <i>ISMRM Workshop on Unlocking the Potential of Prenatal MRI. </i> 2026. (Traditional Poster)
+  </li>
+
+  <li> 
+    <span style="color:#000000; font-weight:bold;">AlignPET: Structure-Aligned MRI-to-PET Synthesis via Variational Autoregression Model for Ischemic Brain Lesions</span> <br>
+    Yifei Chen, Guanyu Zhou, Y. Wang, Mingxuan Liu, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Jialan Zheng, Bixiao Cui, Jie Lu, Qiyuan Tian* <br>
+    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2026. (Oral Power Pitch)
+  </li>
+
+  <li> 
+    <span style="color:#000000; font-weight:bold;">Automated Induction of Standardized Reporting Templates from Fetal Brain MRI Free-Text Corpora</span> <br>
+    X. Zhang, Mingxuan Liu, Hongjia Yang, Yifei Chen, Juncheng Zhu, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Yiming Huang, Yingqi Hao, Zihan Li, Yi Liao, G. Ning, Haibo Qu, Qiyuan Tian* <br>
+    <i>OHBM Annual Meeting <strong>(OHBM). </strong></i> 2026. (Poster)
+  </li>
+
+  <li> 
+    <span style="color:#000000; font-weight:bold;">Modality-Agnostic PET Synthesis from Single-Modality Thick-Slice MRI via Structured MRI-PET Mapping</span> <br>
+    Yifei Chen, Guanyu Zhou, Y. Wang, Mingxuan Liu, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Jialan Zheng, Bixiao Cui, Jie Lu, Qiyuan Tian* <br>
+    <i>OHBM Annual Meeting <strong>(OHBM). </strong></i> 2026. (Poster)
+  </li>
+
+  <li> 
+    <span style="color:#000000; font-weight:bold;">From Free Text to Usable Labels: Privacy-Ensuring Open-weights LLM-Enhanced Clinical Report Extraction for Fetal MRI</span> <br>
+    <a href="https://hal.science/hal-05330462">[Paper]</a> <br> 
+    Mingxuan Liu, Yijin Li, Juncheng Zhu, Hongjia Yang, Yiming Huang, Haoxiang Li, Yifei Chen, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
+    <i>Beijing-Tsinghua Health AI Summit <strong>(BEIHAI). </strong></i> 2025. (Oral, Second Prize of Oral Presentation)
+  </li>
+
+  <li> 
     <span style="color:#000000; font-weight:bold;">Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry</span> <br>
     <a href="https://openreview.net/forum?id=iLBipDelQu">[Paper]</a> <br> 
     Yijin Li#, Mingxuan Liu#, Hongjia Yang, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
-    <i>Medical Imaging with Deep Learning-Short Papers <strong>(MIDL-Short). </strong></i> 2025.
+    <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
   </li>
 
-  <li id="CP-Short-Pub1"> 
+  <li> 
     <span style="color:#000000; font-weight:bold;">Comprehensive Evaluation of Unsupervised Image Enhancement for Volumetric Fetal Brain MRI</span> <br>
     <a href="https://openreview.net/forum?id=RY54DHewSk">[Paper]</a> <a href="https://github.com/yingqihao2022/FetalBrainEnhancement">[Code]</a> <br> 
-    Yanqi Hao#, Mingxuan Liu#, Hongjia Yang, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
-    <i>Medical Imaging with Deep Learning-Short Papers <strong>(MIDL-Short). </strong></i> 2025.
+    Yingqi Hao#, Mingxuan Liu#, Hongjia Yang, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Xuguang Bai</span>, Yi Liao, Haibo Qu, Qiyuan Tian* <br>
+    <i>Medical Imaging with Deep Learning <strong>(MIDL). </strong></i> 2025. (Poster)
   </li>
 </ol>
 
