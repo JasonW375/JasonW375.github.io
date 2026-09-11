@@ -40,7 +40,10 @@ def try_once(use_proxy, per_attempt_timeout=150):
             raise RuntimeError("FreeProxies setup failed")
         scholarly.use_proxy(pg)
     else:
-        scholarly.use_proxy(None)  # direct connection
+        # Direct connection. scholarly 1.5.1's use_proxy() requires a
+        # ProxyGenerator (passing None throws), so hand it a fresh,
+        # unconfigured one, which defaults to no proxy.
+        scholarly.use_proxy(ProxyGenerator())
     _deadline(per_attempt_timeout)
     try:
         return fetch_author()
