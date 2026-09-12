@@ -187,6 +187,11 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 
 
 
+# 🧑‍⚖️ Academic Service
+**Conference Reviewer**
+- *2026* **MICCAI** — International Conference on Medical Image Computing and Computer-Assisted Intervention
+- *2026* **ICME** — IEEE International Conference on Multimedia and Expo
+
 # 🎖 Honors and Awards
 - [[Certificate]](https://www.imagehub.cc/image/Mxzg2R) *2025* **Second Prize of Oral Presentation**, 810th Doctoral Academic Forum (Doctoral Interdisciplinary Frontier Forum), Tsinghua University
 - [[Certificate]](https://www.imagehub.cc/image/MxmSsB) *2025* **MICCAI [VLM3D Challenge](https://vlm3dchallenge.com/challenges/) 2nd Place Winner**
