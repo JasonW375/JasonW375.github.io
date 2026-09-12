@@ -189,7 +189,7 @@ Other related links: [Github](https://github.com/JasonW375) / [Wechat](../images
 
 # 🧑‍⚖️ Academic Service
 **Conference Organization**
-- *2026* Organizing Committee, **[MICS 2026](https://www.mics-ai.com/MICS2026/index.html)** — Medical Image Computing Seminar
+- *2026* Co-organizer, **[MICS 2026](https://www.mics-ai.com/MICS2026/index.html)** — Medical Image Computing Seminar
 
 **Conference Reviewer**
 - *2026* **MICCAI** — International Conference on Medical Image Computing and Computer-Assisted Intervention
